@@ -1,2 +1,2 @@
 # MCI
-Model for Mass Casualty Incident Models
+Model for Mass Casualty Incidents
